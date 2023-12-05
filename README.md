@@ -1,1 +1,1 @@
-# Cornell_Quant_Trader2
+# Cornell_Quant_Trader
